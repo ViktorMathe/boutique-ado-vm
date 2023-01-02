@@ -183,6 +183,8 @@ input[name='q']::placeholder {
   }
 }
 
+/* Allauth form formatting */
+
 .allauth-form-inner-content p {
     margin-top: 1.5rem; /* mt-4 */
     color: #6c757d; /* text-secondary */
@@ -224,8 +226,6 @@ input[name='q']::placeholder {
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
-/* Allauth form formatting */
-
 .allauth-form-inner-content button:hover,
 .allauth-form-inner-content input[type='submit']:hover {	
 	color: #fff;
@@ -236,6 +236,7 @@ input[name='q']::placeholder {
 .allauth-form-inner-content a {
 	color: #17a2b8; /* text-info */
 }
+
 /* Product Form */
 
 .btn-file {
