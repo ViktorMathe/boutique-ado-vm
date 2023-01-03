@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /accounts/
+Disallow: /checkout/
+Sitemap: https://boutique-ado-vm.herokuapp.com/sitemap.xml
